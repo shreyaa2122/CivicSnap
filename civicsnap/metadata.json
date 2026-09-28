@@ -1,0 +1,7 @@
+{
+  "name": "CivicSnap",
+  "description": "A modern, high-efficiency civic-tech platform for reporting and tracking urban issues to build cleaner, better-maintained cities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
