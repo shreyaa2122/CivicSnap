@@ -42,6 +42,3 @@ Many civic issues remain unresolved due to inefficient communication between cit
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a233a4eb-45bb-4196-a5d2-970385c0e82a" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81537b14-6ad1-488b-a8f6-8997d8ac900b" />
 
-👩‍💻 Author:-
-Paree Khatri
-Third-Year Engineering Student | Web Developer | Problem Solver
